@@ -1,3 +1,7 @@
+## Live Demo
+
+[Open OpsPilot AI](https://opspilot-ai-manya.streamlit.app)
+
 # OpsPilot AI
 
 OpsPilot AI is an AI-powered IT service desk intelligence platform that helps enterprise support teams classify IT tickets, predict priority, assign the correct support team, identify SLA risk, and recommend first troubleshooting actions.
