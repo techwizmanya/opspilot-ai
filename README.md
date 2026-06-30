@@ -112,17 +112,19 @@ SLA Risk: Critical
 
 ### Ticket Analyzer
 
-Add screenshot here.
+![Ticket Analyzer](screenshots/ticket-analyzer.png)
 
 ### Dashboard
 
-Add screenshot here.
+![Dashboard Filter](screenshots/dashboard-filter.png)
 
 ### Ticket Search
 
-Add screenshot here.
+![Ticket Search](screenshots/ticket-search.png)
 
-## Business Value
+### Project Info
+
+![Project Info](screenshots/project-info.png)
 
 OpsPilot AI demonstrates how AI and machine learning can improve enterprise IT operations by reducing manual triage effort, improving ticket routing, identifying high-risk issues faster, and supporting better service desk decision-making.
 
